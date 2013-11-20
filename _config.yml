@@ -1,0 +1,6 @@
+exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
+baseurl: 'http://jmchambers.github.io/blog/'
+
+name: Your New Jekyll Site
+markdown: redcarpet
+pygments: true
